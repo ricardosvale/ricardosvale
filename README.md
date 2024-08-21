@@ -16,12 +16,13 @@ Seja bem vindo, entre e fique a vontade!!
 <img alt="Insomnia" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">  <img alt="Notion" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Notion.svg">  <img alt="Firebase" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Firebase.svg"> 
           
 
-<div>
+
 <a href="https://github.com/ricardosvale">
 <img aling="left" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosvale&layout=compact&langs_count=7&theme=dracula"/>
-</a></div><div>
+</a>
+<a href="https://github.com/ricardosvale">
 <img aling="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardosvale&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</a>
 
 
           
