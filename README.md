@@ -25,8 +25,6 @@ Seja bem vindo, entre e fique a vontade!!
           
 ## Contato
 
-![Snake animation](https://github.com/ricardosvale/ricardosvale/blob/output/github-contribution-grid-snake.svg)
-
 
 <!---
 ricardosvale/ricardosvale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
