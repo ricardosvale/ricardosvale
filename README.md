@@ -12,8 +12,7 @@ Seja bem vindo, entre e fique a vontade!!
 
 
 ## 🛠 Habilidades
-<img alt="Github" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Github.svg">  <img alt="Swift" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Swift.svg"> <img alt="Postman" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Postman.svg">
-<img alt="Insomnia" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">  <img alt="Notion" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Notion.svg">  <img alt="Firebase" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Firebase.svg"> 
+<img alt="Github" height="40" width="40" vspace="10" hspace="10" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Github.svg">  <img alt="Swift" height="40" width="40" vspace="10" hspace="10" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Swift.svg"> <img alt="Postman" height="40" width="40" vspace="10" hspace="10" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Postman.svg"> <img alt="Insomnia" height="40" width="40" vspace="10" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">  <img alt="Notion" height="40" width="40" vspace="10" hspace="10" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Notion.svg">  <img alt="Firebase" height="40" width="40" vspace="10" hspace="10" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Firebase.svg"> 
           
 
 
