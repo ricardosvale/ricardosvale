@@ -26,8 +26,15 @@ Seja bem vindo, entre e fique a vontade!!
 
           
 ## Contato
-
-
+ <a href="https://www.instagram.com/ricardost3/">
+    <img alt="Instagram" height="30" width="30" vspace="5" hspace="5"src="https://github.com/gui-bus/TechIcons/blob/main/Light/Instagram.svg"> 
+  </a>
+ <a href="https://www.linkedin.com/in/ricardo-silva-vale/">
+    <img alt="Linkedin" height="30" width="30" vspace="5" hspace="5"src="https://github.com/gui-bus/TechIcons/blob/main/Light/Linkedin.svg"> 
+  </a>
+   <a href="mailto:ricardost3@gmail.com">
+    <img alt="Gmail" height="30" width="30" vspace="5" hspace="5"src="https://github.com/gui-bus/TechIcons/blob/main/Light/Gmail.svg"> 
+  </a>
 <!---
 ricardosvale/ricardosvale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
