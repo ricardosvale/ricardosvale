@@ -17,7 +17,7 @@ Seja bem vindo, entre e fique a vontade!!
 
 
 <a href="https://github.com/ricardosvale">
-<img float="left" loading="lazy" height="160em" margin-left="40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosvale&layout=compact&langs_count=7&theme=dracula"/>
+<img float="left" loading="lazy" height="160em" margin-right="40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosvale&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 <a href="https://github.com/ricardosvale">
 <img float="right" loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=ricardosvale&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
