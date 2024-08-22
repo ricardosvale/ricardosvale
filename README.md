@@ -12,10 +12,7 @@ Seja bem vindo, entre e fique a vontade!!
 
 
 ## 🛠 Habilidades
-<img alt="Github" height="40" width="40" vspace="10" hspace="10" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Github.svg">  <img alt="Swift" height="40" width="40" vspace="10" hspace="10" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Swift.svg"> <img alt="Postman" height="40" width="40" vspace="10" hspace="10" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Postman.svg"> <img alt="Insomnia" height="40" width="40" vspace="10" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">  <img alt="Notion" height="40" width="40" vspace="10" hspace="10" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Notion.svg">  <img alt="Firebase" height="40" width="40" vspace="10" hspace="10" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Firebase.svg"> 
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg" />
-          
+<img alt="Github" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">  <img alt="Swift" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Swift.svg"> <img alt="Postman" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postman.svg"> <img alt="Insomnia" height="40" width="40" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">  <img alt="Notion" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Notion.svg">  <img alt="Firebase" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Firebase.svg"> 
 
 
 <a href="https://github.com/ricardosvale">
@@ -29,13 +26,13 @@ Seja bem vindo, entre e fique a vontade!!
           
 ## Contato
  <a href="https://www.instagram.com/ricardost3/">
-    <img alt="Instagram" height="30" width="30" vspace="5" hspace="5"src="https://github.com/gui-bus/TechIcons/blob/main/Light/Instagram.svg"> 
+    <img alt="Instagram" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"> 
   </a>
  <a href="https://www.linkedin.com/in/ricardo-silva-vale/">
-    <img alt="Linkedin" height="30" width="30" vspace="5" hspace="5"src="https://github.com/gui-bus/TechIcons/blob/main/Light/Linkedin.svg"> 
+    <img alt="Linkedin" height="30" width="30" vspace="5" hspace="5"src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"> 
   </a>
    <a href="mailto:ricardost3@gmail.com">
-    <img alt="Gmail" height="30" width="30" vspace="5" hspace="5"src="https://github.com/gui-bus/TechIcons/blob/main/Light/Gmail.svg"> 
+    <img alt="Gmail" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"> 
   </a>
 <!---
 ricardosvale/ricardosvale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
