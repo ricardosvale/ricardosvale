@@ -17,7 +17,7 @@ Seja bem vindo, entre e fique a vontade!!
 
 
 <a href="https://github.com/ricardosvale">
-<img float="right" loading="lazy" height="160em" hspace="5" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardosvale&theme=dark&hide_border=false"/>
+<img float="left" loading="lazy" height="160em" hspace="5" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardosvale&theme=dark&hide_border=false"/>
 </a>
        
 <a href="https://github.com/ricardosvale">
@@ -25,9 +25,13 @@ Seja bem vindo, entre e fique a vontade!!
 </a>
 
 <a href="https://github.com/ricardosvale">
-<img float="left" loading="lazy" height="160em" vspace="10" hspace="5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosvale&layout=compact&langs_count=7&theme=dracula"/>
+<img float="left" loading="lazy" weight="180em" height="155em" hspace="5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosvale&layout=compact&langs_count=7&theme=dracula"/>
 </a>
-   
+
+<a href="https://github.com/ricardosvale">
+<img float="right" loading="lazy" height="180em" vspace="5"  src="https://github-contributor-stats.vercel.app/api?username=ricardosvale&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</a>
+
 ## Contato
  <a href="https://www.instagram.com/ricardost3/">
     <img alt="Instagram" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"> 
@@ -38,6 +42,12 @@ Seja bem vindo, entre e fique a vontade!!
    <a href="mailto:ricardost3@gmail.com">
     <img alt="Gmail" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"> 
   </a>
+
+
+[![](https://visitcount.itsvg.in/api?id=ricardosvale&icon=9&color=1)](https://visitcount.itsvg.in)
+
+
+  
 <!---
 ricardosvale/ricardosvale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
