@@ -43,9 +43,9 @@ Seja bem vindo, entre e fique a vontade!!
     <img alt="Gmail" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"> 
   </a>
 
-
-[![](https://visitcount.itsvg.in/api?id=ricardosvale&icon=9&color=1)](https://visitcount.itsvg.in)
-
+<div>
+<img vspace="30" src="https://visitcount.itsvg.in/api?id=ricardosvale&icon=9&color=1)](https://visitcount.itsvg.in">
+</div>
 
   
 <!---
