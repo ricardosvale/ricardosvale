@@ -15,15 +15,19 @@ Seja bem vindo, entre e fique a vontade!!
 <img alt="Github" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">  <img alt="Swift" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Swift.svg"> <img alt="Postman" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postman.svg"> <img alt="Insomnia" height="40" width="40" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">  <img alt="Notion" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Notion.svg">  <img alt="Firebase" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Firebase.svg"> 
 
 
+
 <a href="https://github.com/ricardosvale">
-<img float="left" loading="lazy" height="160em" vspace="10" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosvale&layout=compact&langs_count=7&theme=dracula"/>
+<img float="right" loading="lazy" height="160em" hspace="5" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardosvale&theme=dark&hide_border=false"/>
 </a>
+       
 <a href="https://github.com/ricardosvale">
 <img float="right" loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=ricardosvale&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
-
-          
+<a href="https://github.com/ricardosvale">
+<img float="left" loading="lazy" height="160em" vspace="10" hspace="5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosvale&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+   
 ## Contato
  <a href="https://www.instagram.com/ricardost3/">
     <img alt="Instagram" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"> 
