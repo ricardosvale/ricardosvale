@@ -15,7 +15,6 @@ Seja bem vindo, entre e fique a vontade!!
 <img alt="Github" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">  <img alt="Swift" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Swift.svg"> <img alt="Postman" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postman.svg"> <img alt="Insomnia" height="40" width="40" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">  <img alt="Notion" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Notion.svg">  <img alt="Firebase" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Firebase.svg"> 
 
 
-
 <a href="https://github.com/ricardosvale">
 <img float="left" loading="lazy" height="160em" hspace="5" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardosvale&theme=dark&hide_border=false"/>
 </a>
@@ -43,11 +42,7 @@ Seja bem vindo, entre e fique a vontade!!
     <img alt="Gmail" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"> 
   </a>
 
-<div>
-<img vspace="30" src="https://visitcount.itsvg.in/api?id=ricardosvale&icon=9&color=1)](https://visitcount.itsvg.in">
-</div>
-
-  
+ 
 <!---
 ricardosvale/ricardosvale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
