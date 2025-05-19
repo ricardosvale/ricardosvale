@@ -36,7 +36,7 @@ Seja bem vindo, entre e fique a vontade!!
     <img alt="Instagram" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"> 
   </a>
  <a href="https://www.linkedin.com/in/ricardo-silva-vale/">
-    <img alt="Linkedin" height="30" width="30" vspace="5" hspace="5"src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"> 
+    <img alt="Linkedin" height="30" width="30" vspace="5" hspace="5" src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Linkedin.svg"> 
   </a>
    <a href="mailto:ricardost3@gmail.com">
     <img alt="Gmail" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"> 
