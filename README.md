@@ -1,12 +1,11 @@
 
-# 😊 Olá, me chamo Ricardo Vale!
+# Olá, eu sou o Ricardo Vale 
 
-Seja bem vindo, entre e fique a vontade!!
+### iOS Software Engineer | Swift • UIKit • SwiftUI • Objective-C
 
+Engenheiro de Software com foco no ecossistema Apple, especializado no desenvolvimento de aplicações escaláveis e performáticas. Atualmente, trabalho na **FCPC**, atuando em sistemas de mensageria complexos e seguros, onde lido diariamente com desafios de criptografia e arquiteturas híbridas.
 
 ## 🚀 Hello, Devs
-
-👽 Sou de Fortaleza - CE, 🎓 Formado em ADS e atualmente estudando Swift.
 
 🎒 Inicie um curso em Swift e após o curso entrei como bolsista em uma residência tecnológica chamada RESTIC 12 pelo o Instituito IREDE, no qual estou atualmente. Desenvolvendo algumas aplicações como conhecimento adquirido no curso e outros adquiridos na residência. Alguns projeto irei subir no meu GitHub e deixar disponivel para consulta e estudo.
 
