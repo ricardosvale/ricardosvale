@@ -5,11 +5,6 @@
 
 Engenheiro de Software com foco no ecossistema Apple, especializado no desenvolvimento de aplicações escaláveis e performáticas. Atualmente, trabalho na **FCPC**, atuando em sistemas de mensageria complexos e seguros, onde lido diariamente com desafios de criptografia e arquiteturas híbridas.
 
-## 🚀 Hello, Devs
-
-🎒 Inicie um curso em Swift e após o curso entrei como bolsista em uma residência tecnológica chamada RESTIC 12 pelo o Instituito IREDE, no qual estou atualmente. Desenvolvendo algumas aplicações como conhecimento adquirido no curso e outros adquiridos na residência. Alguns projeto irei subir no meu GitHub e deixar disponivel para consulta e estudo.
-
-
 ## 🛠 Habilidades
 <img alt="Github" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">  <img alt="Swift" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Swift.svg"> <img alt="Postman" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postman.svg"> <img alt="Insomnia" height="40" width="40" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">  <img alt="Notion" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Notion.svg">  <img alt="Firebase" height="40" width="40" vspace="5" hspace="5" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Firebase.svg"> 
 
